@@ -1,2 +1,1 @@
-Hosted link
-https://hamdan9710423.github.io/Age-Calculator/
+Hosted Link: https://hamdan9710423.github.io/Age-Calculator/
